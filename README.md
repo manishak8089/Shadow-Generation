@@ -4,7 +4,7 @@ This project demonstrates realistic shadow generation on natural images using a 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `1_shadow_generation_code.ipynb`: Main Colab notebook for model inference
 - `assets/`: Folder containing input, output, and mask visualizations
@@ -24,7 +24,7 @@ This project demonstrates realistic shadow generation on natural images using a 
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python, PyTorch, NumPy, OpenCV
 - Google Colab for experimentation
@@ -32,14 +32,14 @@ This project demonstrates realistic shadow generation on natural images using a 
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This is a research-oriented prototype for cast shadow synthesis.
 - Ideal for use in training data augmentation, simulation, or visual effects.
 
 ---
 
-## 📷 Acknowledgement
+## Acknowledgement
 
 Sample image of zebra sourced from open dataset used for testing.
 
