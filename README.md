@@ -13,7 +13,7 @@ This project demonstrates realistic shadow generation on natural images using a 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Input**: A deshadowed RGB image
 2. **Preprocessing**: Generates:
