@@ -45,6 +45,7 @@ The sample image of players in action was sourced from an open dataset for testi
 The outputs shown in the image represent:
 
 **Input Image:** Original deshadowed RGB image
+
 **Generated Shadow Image:** Realistic shadow-cast output produced by the GAN
 **Shadow Mask:** Binary mask highlighting the shadowed regions
 **Instance Mask:** Semantic segmentation mask indicating different players.
