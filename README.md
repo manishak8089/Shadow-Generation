@@ -41,9 +41,13 @@ This project demonstrates realistic shadow generation on natural images using a 
 
 ## Acknowledgement
 
-Sample image of zebra sourced from open dataset used for testing.
-
-<img width="635" height="441" alt="Image" src="https://github.com/user-attachments/assets/294ec22e-822e-480b-ba30-801f857c9e83" />
+The sample image of players in action was sourced from an open dataset for testing purposes.
+The outputs shown in the image represent:
+Input Image: Original deshadowed RGB image
+Generated Shadow Image: Realistic shadow-cast output produced by the GAN
+Shadow Mask: Binary mask highlighting the shadowed regions
+Instance Mask: Semantic segmentation mask indicating different objects/players
+<img width="635" height="441" alt="Image" src="assets/output_img.png" />
 
 
 
